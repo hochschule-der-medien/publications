@@ -1,5 +1,6 @@
 # Publications
 
+- **ongoing [Computer Science Blog](https://blog.mi.hdm-stuttgart.de/)** `en`
 - **16/08/03 [Software Defined Infrastructure](https://queicherius.github.io/software-defined-infrastructure/)** `de`  
   By: [Per Guth](http://www.perguth.de/), [David Reeß](http://www.david-reess.de/)
 - **16/06/12 [From Web Sites to Web Applications: The change of the Internet](https://github.com/pguth/From-Web-Sites-to-Web-Applications)** `de`  
